@@ -10,4 +10,4 @@ python:
     - requirements: requirements.txt  # Hoặc bạn có thể chỉ định 'setup.py'
 
 sphinx:
-  configuration: guide_vnstockdata/source/conf.py  # Đường dẫn tới tệp conf.py của bạn
+  configuration: ./source/conf.py  # Đường dẫn tới tệp conf.py của bạn
