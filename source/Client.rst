@@ -1,4 +1,4 @@
-Connect
+Client
 =======
 
 .. automodule:: vnstockdata.client

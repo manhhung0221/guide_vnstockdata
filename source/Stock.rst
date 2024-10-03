@@ -1,4 +1,4 @@
-Ticker
+Stock
 ======
 
 .. automodule:: vnstockdata.stock
