@@ -12,6 +12,6 @@ Welcome to vnstockdata Documentation
    :caption: Guide:
 
    Installation
-   Connect
-   Ticker
+   Client
+   Stock
 
