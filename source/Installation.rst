@@ -7,4 +7,4 @@ Hướng dẫn cài đặt
 
     pip install vnstockdata
 
-Lệnh này sẽ tự động cài đặt thư viện `vnstockdata` cùng với các thư viện phụ thuộc cần thiết.
+Lệnh này sẽ giúp bạn tự động cài đặt thư viện `vnstockdata` cùng với các thư viện phụ thuộc cần thiết.
