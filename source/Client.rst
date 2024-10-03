@@ -1,7 +1,7 @@
-Ticker
-======
+Connect
+=======
 
-.. automodule:: vnstockdata.ticker
+.. automodule:: vnstockdata.client
    :members:
    :undoc-members:
    :show-inheritance:
