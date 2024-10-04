@@ -1,7 +1,7 @@
 Stock
 ======
 
-.. automodule:: vnstockdata.stock
+.. automodule:: stockvip.stock
    :members:
    :undoc-members:
    :show-inheritance:

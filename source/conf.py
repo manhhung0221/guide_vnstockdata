@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'vnstockdata'
-copyright = '2024, vnstockdata'
-author = 'vnstockdata'
+project = 'stockvip'
+copyright = '2024, stockvip'
+author = 'stockvip'
 release = '1.0.0-beta'
 
 # -- General configuration ---------------------------------------------------

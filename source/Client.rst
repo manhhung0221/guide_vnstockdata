@@ -1,7 +1,7 @@
 Client
 =======
 
-.. automodule:: vnstockdata.client
+.. automodule:: stockvip.client
    :members:
    :undoc-members:
    :show-inheritance:
