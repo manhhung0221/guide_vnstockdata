@@ -3,13 +3,16 @@ version: 2
 build:
   os: ubuntu-22.04
   tools:
-    python: "3.10"
-
+    python: "3.10"  # Bạn đã chỉ định Python 3.10 ở đây, nhưng có thể cần kiểm tra lại phiên bản nếu muốn dùng 3.11
+  commands:
+    # Cài đặt gói stockvip với python 3.10 theo cách tùy chỉnh
+    - python3.10 -m pip install --upgrade --no-cache-dir --use-deprecated=legacy-resolver stockvip
 python:
   install:
-    - requirements: requirements.txt  # Hoặc bạn có thể chỉ định 'setup.py'
-commands:
-  # Cài đặt gói stockvip với python 3.11 theo cách tùy chỉnh
-  - python3.10 -m pip install --upgrade --no-cache-dir --use-deprecated=legacy-resolver stockvip
+    - requirements: requirements.txt  # Hoặc chỉ định 'setup.py'
+
+
+
+
 sphinx:
   configuration: ./source/conf.py  # Đường dẫn tới tệp conf.py của bạn
