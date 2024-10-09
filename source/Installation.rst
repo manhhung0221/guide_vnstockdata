@@ -13,22 +13,22 @@ Lệnh này sẽ giúp bạn tự động cài đặt thư viện `stockvip` cù
 
 Thư viện **`stockvip`** hoàn toàn tương thích và hoạt động ổn định trên các hệ điều hành phổ biến như:
 
-.. image:: https://img.icons8.com/color/48/000000/windows-10.png
-   :alt: Windows Logo
+.. image:: _static/icons/windows.png
+   :alt: Window Logo
    :width: 20px
    :align: middle
 
 **Windows** 
 
-.. image:: https://img.icons8.com/color/48/000000/linux.png
+.. image:: _static/icons/linux.png
    :alt: Linux Logo
    :width: 20px
    :align: middle
 
 **Linux**
 
-.. image:: https://img.icons8.com/color/48/000000/mac-os.png
-   :alt: macOS Logo
+.. image:: _static/icons/macos.png
+   :alt: Macos Logo
    :width: 20px
    :align: middle
 
