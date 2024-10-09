@@ -7,32 +7,17 @@ Hướng dẫn cài đặt
 
     pip install stockvip
 
-Lệnh này sẽ giúp bạn tự động cài đặt thư viện `stockvip` cùng với các thư viện phụ thuộc cần thiết.
+Lệnh này sẽ giúp bạn tự động cài đặt thư viện ``stockvip`` cùng với các thư viện phụ thuộc cần thiết.
 
-## Tương thích với nhiều hệ điều hành
+**Tương thích với nhiều hệ điều hành***
 
-Thư viện **`stockvip`** hoàn toàn tương thích và hoạt động ổn định trên các hệ điều hành phổ biến như:
+Thư viện ``stockvip`` hoàn toàn tương thích và hoạt động ổn định trên các hệ điều hành phổ biến như:
 
-.. image:: _static/icons/windows.png
-   :alt: Window Logo
-   :width: 20px
-   :align: middle
+.. raw:: html
 
-**Windows** 
-
-.. image:: _static/icons/linux.png
-   :alt: Linux Logo
-   :width: 20px
-   :align: middle
-
-**Linux**
-
-.. image:: _static/icons/macos.png
-   :alt: Macos Logo
-   :width: 20px
-   :align: middle
-
-**macOS**
+    <p><img src="https://img.icons8.com/color/48/000000/windows-10.png" width="20" style="vertical-align: middle;"> Windows</p>
+    <p><img src="https://img.icons8.com/color/48/000000/linux.png" width="20" style="vertical-align: middle;"> Linux</p>
+    <p><img src="https://img.icons8.com/color/48/000000/mac-os.png" width="20" style="vertical-align: middle;"> macOS</p>
 
 Điều này giúp người dùng dễ dàng cài đặt và sử dụng thư viện trên bất kỳ nền tảng nào, bất kể bạn là người dùng sử dụng **Windows**, **Linux** hay người dùng **macOS** đang cần truy xuất và phân tích dữ liệu chứng khoán.
 
