@@ -11,7 +11,30 @@ Lệnh này sẽ giúp bạn tự động cài đặt thư viện `stockvip` cù
 
 ## Tương thích với nhiều hệ điều hành
 
-Thư viện **`stockvip`** hoàn toàn tương thích và hoạt động ổn định trên các hệ điều hành phổ biến như **Windows**, **Linux** và **macOS**. Điều này giúp người dùng dễ dàng cài đặt và sử dụng thư viện trên bất kỳ nền tảng nào, bất kể bạn là nhà phát triển sử dụng **Windows**, quản trị viên hệ thống làm việc trên **Linux**, hay người dùng **macOS** đang cần truy xuất và phân tích dữ liệu chứng khoán.
+Thư viện **`stockvip`** hoàn toàn tương thích và hoạt động ổn định trên các hệ điều hành phổ biến như:
+
+.. image:: https://img.icons8.com/color/48/000000/windows-10.png
+   :alt: Windows Logo
+   :width: 20px
+   :align: middle
+
+**Windows** 
+
+.. image:: https://img.icons8.com/color/48/000000/linux.png
+   :alt: Linux Logo
+   :width: 20px
+   :align: middle
+
+**Linux**
+
+.. image:: https://img.icons8.com/color/48/000000/mac-os.png
+   :alt: macOS Logo
+   :width: 20px
+   :align: middle
+
+**macOS**
+
+Điều này giúp người dùng dễ dàng cài đặt và sử dụng thư viện trên bất kỳ nền tảng nào, bất kể bạn là người dùng sử dụng **Windows**, **Linux** hay người dùng **macOS** đang cần truy xuất và phân tích dữ liệu chứng khoán.
 
 Bạn chỉ cần chạy lệnh `pip install stockvip` trên hệ điều hành của mình và thư viện sẽ tự động cài đặt cùng với các thư viện phụ trợ cần thiết để đảm bảo mọi tính năng hoạt động trơn tru trên cả ba nền tảng.
 
