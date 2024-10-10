@@ -1,4 +1,4 @@
-Class Stock Documentation
+Stock
 =========================
 
 .. automodule:: stockvip.Stock
