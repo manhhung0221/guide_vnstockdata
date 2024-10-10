@@ -9,7 +9,7 @@
 project = 'stockvip'
 copyright = '2024, stockvip'
 author = 'stockvip'
-release = '2.0.5'
+release = '2.0.6'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
